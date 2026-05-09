@@ -1,4 +1,4 @@
-Project Description: HomiQ – IoT Based Home Automation System
+Project Description: HomiQ – IoT Based Home Automation System:
 
 
 HomiQ is a modular home automation system that lets users control lights, fans, appliances, and sensors from a phone or voice assistant while keeping the wiring and cost simple. It is built for apartments, independent houses, and small offices where people want comfort and energy savings without rewiring the entire home. The design focus is reliable local control first, cloud features second, so the house still works even if the internet goes down.
